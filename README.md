@@ -4,4 +4,4 @@ A personal site project.
 
 ## Notes
 
-This site recieve updates through pull requests.
+This site receive updates through pull requests.
