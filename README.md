@@ -1,2 +1,7 @@
 # my-site
-my-site — sandbox for dsh-superagent
+
+A personal site project.
+
+## Notes
+
+This site recieve updates through pull requests.
